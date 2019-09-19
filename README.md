@@ -4,7 +4,7 @@
 
 ## Objective
 
-To organize professional content using information architecture concepts and tools in order to create a clear, well-organized and logically-structured website via a \sitemap" diagram.
+To organize professional content using information architecture concepts and tools in order to create a clear, well-organized and logically-structured website via a "sitemap" diagram.
 
 ## Goals
 
